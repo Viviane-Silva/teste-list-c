@@ -1,0 +1,15 @@
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\bin\Debug\net6.0\teste-lista.exe
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\bin\Debug\net6.0\teste-lista.deps.json
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\bin\Debug\net6.0\teste-lista.runtimeconfig.json
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\bin\Debug\net6.0\teste-lista.dll
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\bin\Debug\net6.0\teste-lista.pdb
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.csproj.AssemblyReference.cache
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.AssemblyInfoInputs.cache
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.AssemblyInfo.cs
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.csproj.CoreCompileInputs.cache
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.dll
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\refint\teste-lista.dll
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.pdb
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\teste-lista.genruntimeconfig.cache
+C:\Users\Viviane Silva\source\repos\Viviane-Silva\teste-list-c\teste-lista\teste-lista\obj\Debug\net6.0\ref\teste-lista.dll
